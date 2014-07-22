@@ -1,4 +1,4 @@
 jstanier.github.io
 ==================
 
-My website, soon...
+My website. It's not much. It can also be accessed via [jstanier.com](www.jstanier.com).
