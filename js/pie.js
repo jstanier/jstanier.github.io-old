@@ -34,11 +34,11 @@ $(function () {
             type: 'pie',
             name: 'Time spent',
             data: [
-            ['Java/Spring/Kafka', 25.0],
+            ['Java/Spring/Kafka', 10.0],
             ['StackOverflow', 2.0],
             ['PostgreSQL', 10.0],
             ['Python', 5.0],
-            ['Management/Email', 35.0],
+            ['Management/Email', 50.0],
             ['Coffee', 15.0],
             ['Bad puns', 8.0],
             ]
