@@ -34,10 +34,9 @@ $(function () {
             type: 'pie',
             name: 'Time spent',
             data: [
-            ['JVM languages', 5.0],
+            ['Java/Scala', 10.0],
             ['StackOverflow', 7.0],
             ['Storage', 10.0],
-            ['Scala', 5.0],
             ['Management/Email', 50.0],
             ['Coffee', 15.0],
             ['Bad puns', 8.0],
